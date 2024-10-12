@@ -20,6 +20,9 @@ This dashboard provides detailed insights into employee presence and attendance 
   
 ## Screenshots
 
+Below is a screenshot of the HR Analytics dashboard:
+
+![Employee Presence Dashboard](https://github.com/ScaryPnj/HR-Analytics-Dashboard-Employee-Presence-Tracking/blob/55cc89ff05c42b1b7e256480d856b98041c1c52a/HR%20Analytics%20Project.png)
 
 
 ## Insights
