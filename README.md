@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard - Employee Presence Tracking
+# HR Analytics-Dashboard - Employee Presence Tracking
 This dashboard provides detailed insights into employee presence and attendance trends, enabling HR teams to monitor workforce engagement effectively
 
 ## Features
